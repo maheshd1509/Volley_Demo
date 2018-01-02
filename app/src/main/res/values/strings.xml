@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Volley_Demo</string>
+    <string name="url">https://reqres.in/api/users?page=1</string>
+</resources>
